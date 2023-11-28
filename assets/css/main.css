@@ -1,0 +1,33 @@
+.modal-content {
+    background-color: #212529 !important;
+    color: #ffffff !important;
+}
+
+.form-text {
+    color: #ffffff !important;
+}
+
+.modal-content input, .modal-content textarea {
+    background-color: #212529 !important;
+    color: #ffffff !important;
+    border-color: #000000 !important;
+}
+
+.profile-img::after {
+    display: none;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+footer {
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+}
+a[data-bs-toggle]{
+    cursor: pointer;
+    color: #0a58ca!important;
+}
